@@ -1,10 +1,15 @@
 passage#imageroi#surface
-urn:cts:hcmidlatin:scholia.aratea.bern88:1v.1#urn:cite2:ecod:bern88imgs.v1:bern88_001v@0.07029,0.3954,0.2009,0.06764#urn:cite2:mid:bern88pages.v1:1v
-urn:cts:hcmidlatin:scholia.aratea.bern88:1v.2#urn:cite2:ecod:bern88imgs.v1:bern88_001v@0.05724,0.5461,0.2158,0.06446#urn:cite2:mid:bern88pages.v1:1v
-urn:cts:hcmidlatin:scholia.aratea.bern88:1v.3#urn:cite2:ecod:bern88imgs.v1:bern88_001v@0.06980,0.7040,0.2016,0.08158#urn:cite2:mid:bern88pages.v1:1v
+urn:cts:hcmidlatin:scholia.aratea.bern88:1v.1#urn:cite2:citeecod:bern88imgs.v1:bern88_001v@0.07029,0.3954,0.2009,0.06764#urn:cite2:mid:bern88pages.v1:1v
+urn:cts:hcmidlatin:scholia.aratea.bern88:1v.2#urn:cite2:citeecod:bern88imgs.v1:bern88_001v@0.05724,0.5461,0.2158,0.06446#urn:cite2:mid:bern88pages.v1:1v
+urn:cts:hcmidlatin:scholia.aratea.bern88:1v.3#urn:cite2:citeecod:bern88imgs.v1:bern88_001v@0.06980,0.7040,0.2016,0.08158#urn:cite2:mid:bern88pages.v1:1v
 
+urn:cts:hcmidlatin:scholia.aratea.bern88:2r.1#urn:cite2:citeecod:bern88imgs.v1:bern88_002r@0.6902,0.3575,0.2290,0.1020#urn:cite2:mid:bern88pages.v1:2r
+urn:cts:hcmidlatin:scholia.aratea.bern88:2r.2#urn:cite2:citeecod:bern88imgs.v1:bern88_002r@0.7050,0.6213,0.2298,0.07033#urn:cite2:mid:bern88pages.v1:2r
 
+urn:cts:hcmidlatin:scholia.aratea.bern88:2v.1#urn:cite2:citeecod:bern88imgs.v1:bern88_002v@0.08447,0.1222,0.1952,0.1278#urn:cite2:mid:bern88pages.v1:2v
+urn:cts:hcmidlatin:scholia.aratea.bern88:2v.2#urn:cite2:citeecod:bern88imgs.v1:bern88_002v@0.08594,0.3165,0.1916,0.06727#urn:cite2:mid:bern88pages.v1:2v
+urn:cts:hcmidlatin:scholia.aratea.bern88:2v.3#urn:cite2:citeecod:bern88imgs.v1:bern88_002v@0.09263,0.5428,0.1787,0.06103#urn:cite2:mid:bern88pages.v1:2v
 
-urn:cts:hcmidlatin:scholia.aratea.bern88:5r.1#urn:cite2:ecod:bern88imgs.v1:bern88_005r@0.7047,0.2329,0.2171,0.06703#urn:cite2:mid:bern88pages.v1:5r
-urn:cts:hcmidlatin:scholia.aratea.bern88:6r.1#urn:cite2:ecod:bern88imgs.v1:bern88_006r@0.6820,0.6064,0.2177,0.04917#urn:cite2:mid:bern88pages.v1:6r
-urn:cts:hcmidlatin:scholia.aratea.bern88:6r.2#urn:cite2:ecod:bern88imgs.v1:bern88_006r@0.6820,0.6064,0.2177,0.04917#urn:cite2:mid:bern88pages.v2:6r
+urn:cts:hcmidlatin:scholia.aratea.bern88:5r.1#urn:cite2:citeecod:bern88imgs.v1:bern88_005r@0.7047,0.2329,0.2171,0.06703#urn:cite2:mid:bern88pages.v1:5r
+urn:cts:hcmidlatin:scholia.aratea.bern88:6r.1#urn:cite2:citeecod:bern88imgs.v1:bern88_006r@0.6820,0.6064,0.2177,0.04917#urn:cite2:mid:bern88pages.v1:6r
+urn:cts:hcmidlatin:scholia.aratea.bern88:6r.2#urn:cite2:citeecod:bern88imgs.v1:bern88_006r@0.6820,0.6064,0.2177,0.04917#urn:cite2:mid:bern88pages.v2:6r
