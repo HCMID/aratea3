@@ -1,6 +1,6 @@
 name := "Hackathon 2019"
 
-crossScalaVersions in ThisBuild := Seq("2.11.8", "2.12.4")
+crossScalaVersions in ThisBuild := Seq("2.11.8", "2.12.12")
 scalaVersion := (crossScalaVersions in ThisBuild).value.last
 
 
